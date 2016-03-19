@@ -15,4 +15,4 @@
 #
 
 add_lunch_combo aosp_d2502-userdebug
-add_lunch_combo slim_eagle-userdebug
+add_lunch_combo slim_wukong-userdebug
